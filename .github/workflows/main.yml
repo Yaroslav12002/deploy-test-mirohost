@@ -6,7 +6,7 @@ on:
 env:
   SERVER_HOST: 89.184.78.245
   SERVER_USER: usernik
-  SERVER_PATH: /var/www/asd12002/asd12002.com
+  SERVER_PATH: /asd12002.com
 
 jobs:
 
