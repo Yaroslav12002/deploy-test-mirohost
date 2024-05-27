@@ -5,8 +5,8 @@ on:
 
 env:
   SERVER_HOST: vs2882.mirohost.net
-  SERVER_USER: usernik
-  SERVER_PATH: /var/www/asd12002
+  SERVER_USER: asd12002
+  SERVER_PATH: /var/www/asd12002/asd12002.com
 
 jobs:
 
